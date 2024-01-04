@@ -1,0 +1,8 @@
+step-1:created an sql query  for the tablesstudents,Teachers,Courses.
+step-2:choose mvc application in vs for the project.
+step-3:create a style sheet. 
+step-4:create a master page(Site master).Design the page with hyperlinks for students, Teachers and Courses.
+step-5:create a  web form with master and select master page(site master) while creating for students, Teachers and Courses
+step-6:create a grid view and add sql connection for the 3 pages by selecting the desired tables.
+step-7:Once the connection is created . In aspx.cs in the try block create the connection.In catch throw an exception.
+Step:8:Now run the program.
